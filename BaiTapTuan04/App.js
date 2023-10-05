@@ -7,15 +7,8 @@ import { Layout02 } from "./src/VIEW/Layout02";
 import { Layout03 } from "./src/VIEW/Layout03";
 import { Layout04 } from "./src/VIEW/Layout04";
 import { Layout05 } from "./src/VIEW/Layout05";
+import { Layout06 } from "./src/VIEW/Layout06";
 
 export default function App() {
-      return <Layout05 />;
+      return <Layout06 />;
 }
-const styles = StyleSheet.create({
-      container: {
-            flex: 1,
-            backgroundColor: "#fff",
-            alignItems: "center",
-            justifyContent: "center",
-      },
-});
