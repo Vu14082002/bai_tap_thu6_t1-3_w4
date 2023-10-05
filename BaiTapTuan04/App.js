@@ -8,7 +8,8 @@ import { Layout03 } from "./src/VIEW/Layout03";
 import { Layout04 } from "./src/VIEW/Layout04";
 import { Layout05 } from "./src/VIEW/Layout05";
 import { Layout06 } from "./src/VIEW/Layout06";
+import { Layout07 } from "./src/VIEW/Layout07";
 
 export default function App() {
-      return <Layout06 />;
+      return <Layout07 />;
 }
