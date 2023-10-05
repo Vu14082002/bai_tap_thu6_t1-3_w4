@@ -7,7 +7,6 @@ import {
       TextInput,
       View,
 } from "react-native";
-import { Button } from "react-native-web";
 
 export const Layout04 = function () {
       return (
@@ -50,7 +49,6 @@ export const Layout04 = function () {
 const styles = StyleSheet.create({
       container: {
             flex: 1,
-            fontFamily: "Roboto",
       },
       flex3: {
             flex: 3,
@@ -59,7 +57,6 @@ const styles = StyleSheet.create({
       },
       flex2: {
             flex: 2,
-            justifyContent: "center",
             alignItems: "center",
       },
       // header

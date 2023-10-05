@@ -6,9 +6,10 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { Layout02 } from "./src/VIEW/Layout02";
 import { Layout03 } from "./src/VIEW/Layout03";
 import { Layout04 } from "./src/VIEW/Layout04";
+import { Layout05 } from "./src/VIEW/Layout05";
 
 export default function App() {
-      return <Layout04 />;
+      return <Layout05 />;
 }
 const styles = StyleSheet.create({
       container: {
